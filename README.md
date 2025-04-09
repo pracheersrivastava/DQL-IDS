@@ -22,7 +22,7 @@ The model follows the **Deep Q-Learning (DQL)** workflow and incorporates:
 deep-qlearning-ids/
 ├── data/               → Original NSL-KDD files (KDDTrain+.TXT, KDDTest+.TXT)
 ├── output/             → Cleaned data, trained models (.keras)
-├── codes/          → Scripts for preprocessing, DQL model, training
+├── notebooks/          → Scripts for preprocessing, DQL model, training
 ├── .gitignore          → Python cache/model ignore list
 └── README.md           → You’re here
 ```
