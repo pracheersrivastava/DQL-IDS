@@ -108,6 +108,9 @@ Implemented:
 
 > Developed by **Pracheer Srivastava, Saurav Chourasia, Sarthak Singh, Subeer Srivastava, Suchanda Dutta**  
 B.Tech CSE (Cyber Security & Digital Forensics)  
-VIT Bhopal University – April 2025  
+VIT Bhopal University – April 2025
+
+## 📘 License
+This is a university academic project. For educational and non-commercial use only.
 
 ---
