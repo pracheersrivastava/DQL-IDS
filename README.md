@@ -19,7 +19,7 @@ The model follows the **Deep Q-Learning (DQL)** workflow and incorporates:
 ### 🧱 Project Structure
 
 ```
-deep-qlearning-ids/
+dql-ids/
 ├── data/               → Original NSL-KDD files (KDDTrain+.TXT, KDDTest+.TXT)
 ├── output/             → Cleaned data, trained models (.keras)
 ├── notebooks/          → Scripts for preprocessing, DQL model, training
