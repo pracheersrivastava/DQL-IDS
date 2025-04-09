@@ -1,0 +1,38 @@
+# 🔧 Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 🧪 Virtual environment
+env/
+venv/
+ENV/
+.env/
+
+# 📊 Data and model output
+output/
+*.csv
+*.h5
+*.keras
+*.pkl
+
+# 💻 Jupyter/IPython junk
+.ipynb_checkpoints/
+*.ipynb~
+
+# ⚙️ VS Code configs
+.vscode/
+.settings/
+
+# 🗑 System junk files
+.DS_Store
+Thumbs.db
+
+# 📄 Log files
+*.log
+nohup.out
+
+# 🔐 Secrets (if any)
+*.env
+credentials.json
+token.json
