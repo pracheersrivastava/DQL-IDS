@@ -19,10 +19,10 @@ The model follows the **Deep Q-Learning (DQL)** workflow and incorporates:
 ### 🧱 Project Structure
 
 ```
-deep-qlearning-ids/
+dql-ids/
 ├── data/               → Original NSL-KDD files (KDDTrain+.TXT, KDDTest+.TXT)
 ├── output/             → Cleaned data, trained models (.keras)
-├── codes/          → Scripts for preprocessing, DQL model, training
+├── notebooks/          → Scripts for preprocessing, DQL model, training
 ├── .gitignore          → Python cache/model ignore list
 └── README.md           → You’re here
 ```
@@ -71,7 +71,7 @@ Implemented:
 
 ### 📊 Dataset Used: NSL-KDD
 
-> From the [Canadian Institute for Cybersecurity (UNB)](https://www.unb.ca/cic/datasets/nsl.html)
+> From the [NSL-KDD-Dataset](https://github.com/jmnwong/NSL-KDD-Dataset)
 
 - 41 features + attack labels
 - Grouped into 5 major classes:
@@ -108,6 +108,9 @@ Implemented:
 
 > Developed by **Pracheer Srivastava, Saurav Chourasia, Sarthak Singh, Subeer Srivastava, Suchanda Dutta**  
 B.Tech CSE (Cyber Security & Digital Forensics)  
-VIT Bhopal University – April 2025  
+VIT Bhopal University – April 2025
+
+## 📘 License
+This is a university academic project. For educational and non-commercial use only.
 
 ---
