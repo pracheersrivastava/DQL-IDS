@@ -9,12 +9,6 @@ venv/
 ENV/
 .env/
 
-# 📊 Data and model output
-output/
-*.csv
-*.h5
-*.keras
-*.pkl
 
 # 💻 Jupyter/IPython junk
 .ipynb_checkpoints/
